@@ -1,6 +1,7 @@
 ---
 _hotel_id: THE397
 _portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
 latitude: 42.34482
 longitude: -71.09701
 name: The Verb Hotel
